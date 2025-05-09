@@ -10,9 +10,9 @@ import '../assets/main.css'
         本系統所涉及之個人敏感資訊將依個資法進行蒐集、處理，且使用者之IP位置與系統使用情形將會受到記錄。
         <br />
         系統聯繫窗口：
-        <a href="###" class="no-underline text-blue-600 hover:text-blue-800">svm_service@ekera.com.tw</a>
+        <a href="###" class="no-underline text-blue-600 hover:text-blue-800"> svm_service@ekera.com.tw</a>
         <br />
-        客服專線：(02)2321-2729
+        客服專線： (02)2321-2729
       </div>
       <div>
         使用本系統相關電腦規格：
