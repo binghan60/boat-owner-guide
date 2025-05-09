@@ -1,8 +1,7 @@
-<script setup></script>
+<script setup>
+import HeaderComponent from '@/components/HeaderComponent.vue'
+</script>
 
 <template>
-  <div>
-    <h1 class="text-3xl font-bold underline">Hello world!</h1>
-    <p>Welcome to the home page!</p>
-  </div>
+  <HeaderComponent></HeaderComponent>
 </template>
