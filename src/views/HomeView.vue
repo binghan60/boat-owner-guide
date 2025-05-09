@@ -1,6 +1,6 @@
 <script setup>
 import HeaderComponent from '@/components/HeaderComponent.vue'
-import FooterComponent from '@/components/FooterComponent.vue'
+import ContactInfoComponent from '@/components/ContactInfoComponent.vue'
 
 const cards = [
   {
@@ -59,8 +59,8 @@ const cards = [
         </details>
       </div>
     </div>
+    <ContactInfoComponent class="grid grid-cols-1 my-6"></ContactInfoComponent>
   </div>
-  <footer-component></footer-component>
 </template>
 
 <style scoped>
