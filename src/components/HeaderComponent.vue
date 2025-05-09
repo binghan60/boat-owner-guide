@@ -1,11 +1,11 @@
 <script setup></script>
 
 <template>
-  <div id="motc_header" class="text-center space-y-2 p-5">
+  <div id="motc_header" class="text-center space-y-2 p-5 mb-6">
     <div class="flex justify-center">
       <img src="/image/logo.svg" class="h-[50px]" alt="" />
     </div>
-    <p class="font-bold text-white">船主個人化申辦平臺係線上使用說明</p>
+    <h1 class="font-bold text-white">船主個人化申辦平臺係線上使用說明</h1>
   </div>
 </template>
 

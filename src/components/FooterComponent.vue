@@ -3,7 +3,7 @@ import '../assets/main.css'
 </script>
 
 <template>
-  <div id="motc_footer" class="w-full bg-white p-0 mt-3 text-sm">
+  <div id="motc_footer" class="w-full bg-white p-0 mt-8 text-sm">
     <div class="bg-cyan-600 text-white text-center py-2">版權所有 © 交通部航港局</div>
     <div class="flex justify-between px-3 py-4 flex-wrap">
       <div>
